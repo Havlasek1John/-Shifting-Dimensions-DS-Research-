@@ -1,10 +1,8 @@
-[center]
-[img]https://i.imgur.com/Xg7gqju.png[/img]
+![Image 1](https://i.imgur.com/Xg7gqju.png)
 
-[img]https://i.imgur.com/dwwtFCd.png[/img]
+![Image 2](https://i.imgur.com/dwwtFCd.png)
 
-[img]https://i.imgur.com/0WyKUyw.png[/img]
-[/center]
+![Image 3](https://i.imgur.com/0WyKUyw.png)
 
 # Qyvaria OS & Computational Dimensional Shift Ecosystem
 
