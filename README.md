@@ -1,3 +1,11 @@
+[center]
+[img]https://i.imgur.com/Xg7gqju.png[/img]
+
+[img]https://i.imgur.com/dwwtFCd.png[/img]
+
+[img]https://i.imgur.com/0WyKUyw.png[/img]
+[/center]
+
 # Qyvaria OS & Computational Dimensional Shift Ecosystem
 
 > **A Local-First, Browser-Native AI Operating Kernel and Multi-Axis State Transformation Engine**
